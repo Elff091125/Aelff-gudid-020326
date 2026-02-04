@@ -1341,7 +1341,7 @@ def relationship_explorer(results_by_ds: Dict[str, pd.DataFrame], shared: Dict[s
             color=node_color,
             size=node_size,
             line_width=1.2,
-            line_color="#00000022",
+            line_color="#00000000",
         ),
     )
 
